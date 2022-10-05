@@ -1,24 +1,8 @@
-# 21 challenges for Learning Responsiveness
-*[General information](#gerenal-information)
-*[Technologies](#technologies)
-*[Setup](#setup)
+# Challenge #1
 
-## General information
+## Responsiveness using percentage
 
-This project is a number of tasks for learning Responsiveness.
+1. Setting width using 100% to the parent and the child
+2. To center element or content using { margin: 0 auto;}
 
-## Technologies
-
-Project is created with:
-
-*HTML5
-*CSS3
-*SASS
-
-## Setup 
-
-To run this project, open a challenge folder and run index.html file on your browser
-
-## Credits
-
-I would like to give my credits to @KevinPowell
+ 
