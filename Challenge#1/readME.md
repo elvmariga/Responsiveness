@@ -18,3 +18,7 @@ Project is created with:
 ## Setup 
 
 To run this project, open a challenge folder and run index.html file on your browser
+
+## Credits
+
+I would like to give my credits to @KevinPowell
