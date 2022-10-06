@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto;
+
+  .container {
+    padding: 3rem 6rem;
+    background-color: #136C72;
+    color: white;
+  
+
+    .title,
+    .description {
+      padding: 3rem 0 0 0;
+      width: 50%;
+        max-width: 750px;
+
+      h1,
+      p {
+        margin: 0;
+      }
+
+      h1 {
+        font-size: 3rem;
+      }
+
+      p {
+        font-size: 1.3rem;
+      }
+    }
+
+    .btn {
+      margin-top: 3em;
+      padding: 1rem 1.2em;
+      background-color: #38CFD9;
+      width: max-content;
+      font-size: 1.3rem;
+      border-radius: 3rem;
+      color: #23424A;
+      font-weight: 600;
+    }
+  }
+}
