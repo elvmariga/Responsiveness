@@ -1,6 +1,6 @@
-# Challebge #3
+# Challenge #3
 
-## using max-width, em, rem, and not setting height
+## Using max-width, em, rem, and not setting height
 
 ### max-width
 
