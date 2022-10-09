@@ -1,0 +1,88 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+body .main {
+  border: 1px solid #222c2a;
+  border-right: 2px solid #222c2a;
+}
+body .main .row .container {
+  width: 80%;
+  margin: 0 auto;
+}
+body .main .row .container h1,
+body .main .row .container h2,
+body .main .row .container h6 {
+  margin: 0;
+}
+body .main .row-1 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 4rem;
+  padding: 5rem 0;
+}
+body .main .row-1 .container {
+  display: grid;
+  gap: 5rem;
+}
+body .main .row-1 .container .title {
+  color: #824936;
+  font-size: 2.25rem;
+}
+body .main .row-1 .container .details {
+  display: flex;
+  text-align: left;
+  font-size: 1.3125rem;
+  gap: 1.5rem;
+}
+body .main .row-2, body .main .row-3 {
+  background-color: #222c2a;
+  padding: 4rem 0;
+}
+body .main .row-2 .container, body .main .row-3 .container {
+  display: flex;
+  gap: 10rem;
+  justify-content: space-between;
+  color: #FFFFFF;
+  flex-wrap: wrap;
+}
+body .main .row-2 .container .left, body .main .row-3 .container .left {
+  width: 50%;
+}
+body .main .row-2 .container .left h2, body .main .row-3 .container .left h2 {
+  font-size: 2.25rem;
+}
+body .main .row-2 .container .left p, body .main .row-3 .container .left p {
+  font-size: 1.3125rem;
+}
+body .main .row-3 {
+  background-color: #824936;
+}
+body .main .row-3 .right {
+  width: 40%;
+  font-size: 1.3125rem;
+}
+body .main .row-3 .right h2 {
+  font-size: 2.25rem;
+}
+body .main .hero {
+  background-color: #F3EED9;
+  display: flex;
+  min-height: 40vh;
+  margin: 0 auto;
+  align-items: center;
+}
+body .main .hero h1 {
+  font-size: 3.75rem;
+  color: #824936;
+}
+body .main .hero h6 {
+  font-size: 1.125rem;
+}/*# sourceMappingURL=style.css.map */
